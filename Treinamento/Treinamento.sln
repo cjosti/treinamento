@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula1", "Aula1\Aula1.csproj", "{11EA5872-2215-4E2C-BB0A-A3C695744C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2", "Aula2\Aula2.csproj", "{EFD55DE0-9D51-4468-85FF-48326EA2FB06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{11EA5872-2215-4E2C-BB0A-A3C695744C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11EA5872-2215-4E2C-BB0A-A3C695744C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11EA5872-2215-4E2C-BB0A-A3C695744C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD55DE0-9D51-4468-85FF-48326EA2FB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD55DE0-9D51-4468-85FF-48326EA2FB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD55DE0-9D51-4468-85FF-48326EA2FB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD55DE0-9D51-4468-85FF-48326EA2FB06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22A9D1FF-4C92-4A70-88F1-13C98B9E1525}
 	EndGlobalSection
 EndGlobal
